@@ -13,7 +13,7 @@ Proposta: utilizar SwiftUI, Combine e uma depêndencia gerenciada pelo Swift Pac
 
 ## Status
 
-Em contrução
+Em construção
 
 ## Uso
 Clone o repositório : git clone https://github.com/mayanacordeiro/ProjetoFinal-DIO-2.git
