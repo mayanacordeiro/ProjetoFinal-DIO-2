@@ -3,8 +3,6 @@
 
 **Previsão do Tempo** te permite buscar por uma cidade e visualizar a temperatura atual.
 
-O app consiste em uma tela com uma lista das raças de cachorros existentes, ao clicar num raça é possível visualizar fotos de cachorros da respectiva raça. Há também a possibilidade de buscar por uma raça para visualizar fotos dos cachorros. 
-
 O resultado do tempo é obtido através da **API** https://openweathermap.org/ e foi usado a biblioteca Alamofire para realizar a requisição HTTP. 
 
 ## Motivação
